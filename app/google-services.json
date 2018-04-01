@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "253075950541",
+    "firebase_url": "https://popotoan-cuy.firebaseio.com",
+    "project_id": "popotoan-cuy",
+    "storage_bucket": "popotoan-cuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253075950541:android:a2689521473ac9f2",
+        "android_client_info": {
+          "package_name": "com.example.levie.levie_1202152324_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253075950541-8efsuo6l2hvdjr2bldsbl0hlke1e2osj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDza-Gg17e53eeMKbnlKRpYG4WLxddB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
